@@ -93,7 +93,7 @@ body {
   transform: scale(1.05);
 }
 
-/* Sobreposição da imagem principal */
+
 .sobreposição {
   position: absolute;
   top: 0;
@@ -162,7 +162,7 @@ body {
   transform: scale(1.05);
 }
 
-/* Sobreposição das notícias menores */
+
 .sobreposição2 {
   position: absolute;
   top: 0;
@@ -221,7 +221,7 @@ body {
   cursor: pointer;
 }
 
-/* Sublinhado no hover da lista lateral direita */
+
 .textos li:hover {
   text-decoration: underline;
 }
